@@ -1,2 +1,9 @@
 // This is the player one file.
-public class PlayerOne {}
+public class PlayerOne
+{
+    int deltaX;
+    int deltaY;
+
+    public void movement()
+    {}
+}
